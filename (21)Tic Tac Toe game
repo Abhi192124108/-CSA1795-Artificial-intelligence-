@@ -1,21 +1,4 @@
 
-alumyamini
-/
-Yamini-CSA1787-AI
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Yamini-CSA1787-AI/program21:Tic tac toe
-@alumyamini
-alumyamini Create program21:Tic tac toe
-…
- 1 contributor
-203 lines (91 sloc)  2.63 KB
 import numpy as np
 
 import random
